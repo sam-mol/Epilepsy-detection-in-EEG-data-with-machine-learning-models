@@ -1,4 +1,4 @@
-Epilepsy detection in EEG data using machine learning models.
+Epilepsy detection in EEG recordng data using machine learning models.
 
 In this project, I applied machine learning models to time series data for classification purposes. My goal was to build a machine learning model that can detect epilepsy episodes from EEG time series datasets collected by Andrzejak et al. (Physical review E, 2001). 
 The raw data were separated into five classes based on the souces of EEG recordings: two recordings from healthy people, two recordings from epileptic patients not having epileptic seizures, and one recording from the epileptic patients having epileptic seizures. 
